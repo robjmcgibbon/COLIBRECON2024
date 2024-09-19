@@ -1,0 +1,2 @@
+matplotlib
+git+https://github.com/SWIFTSIM/swiftgalaxy.git
