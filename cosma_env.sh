@@ -8,7 +8,7 @@ module purge
 module load cosma/2024 python/3.12.4
 
 # Create an empty venv using the recommended cosma script
-venv_name="test2"
+venv_name="colibre-workshop"
 makeJupyterVenv.sh ${venv_name}
 
 # Get venv location using same process as makeJupyterVenv.sh
