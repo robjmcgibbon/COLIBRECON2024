@@ -2,6 +2,7 @@
 #
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
+#SBATCH --mem=10GB
 #SBATCH -o ./plot_stellar_mass_%j.out
 #SBATCH -J plot_stellar_mass
 #SBATCH -p cosma-analyse

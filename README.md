@@ -1,6 +1,6 @@
 # COLIBRE
 
-This repository introduces the COLIBRE simulation data, along with some tools that are useful when analysing it.
+This repository introduces the COLIBRE simulation data, along with some tools that are useful when analysing it. If you have any questions please reach out to me via slack or email (mcgibbon@strw.leidenuniv.nl).
 
 ### Running the introductory notebook
 
